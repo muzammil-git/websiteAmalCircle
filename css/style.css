@@ -1,0 +1,74 @@
+header{
+    text-align: center;
+    background-color: rgb(72, 241, 142);
+    color: black;
+    padding: 2%;
+}
+
+body{
+    margin: 2%;
+}
+
+p{
+    text-align:justify;
+    color: navy;
+    font-size: 1.6vw;
+}
+
+aside > img{
+    height: auto;
+    max-width: 30%;
+    float: right;
+    /* padding-right: 2%; */
+}
+
+.point>p{
+    float: left;
+    width: 60%;    
+}
+
+/* 
+aside{
+    float: right;
+    width: auto;
+} */
+
+.theory{
+    clear:both;
+}
+
+.solutions>ul{
+    text-align:justify;
+    color: navy;
+    font-size: 1.4vw;
+    line-height: 2vw;
+    /* line-break: loose; */
+}
+
+.fix{
+    clear: both;
+}
+
+.need>p{
+    float: left;
+    width: 60%;
+}
+
+.society > img{
+    height: auto;
+    max-width: 30%;
+    float: right;
+}
+
+footer{
+    padding-top: 0.1%;
+    clear: both;
+    margin-top: 25%;
+    background-color: rgb(72, 241, 142);
+}
+
+h3,h4{
+    text-align:justify;
+    font-size: 1.6vw;
+    text-indent: 2vw;
+}
